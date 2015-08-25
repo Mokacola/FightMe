@@ -99,13 +99,9 @@
 		7FC5B5E31B8D2EF600774F74 /* FightMe */ = {
 			isa = PBXGroup;
 			children = (
-				7FC5B5E41B8D2EF600774F74 /* AppDelegate.swift */,
 				7FC5B5E61B8D2EF600774F74 /* ViewController.swift */,
 				7FC5B5E81B8D2EF600774F74 /* Main.storyboard */,
-				7FC5B5EE1B8D2EF600774F74 /* Assets.xcassets */,
-				7FC5B5F01B8D2EF600774F74 /* LaunchScreen.storyboard */,
-				7FC5B5F31B8D2EF600774F74 /* Info.plist */,
-				7FC5B5EB1B8D2EF600774F74 /* FightMe.xcdatamodeld */,
+				7FC5B6151B8D2EFC00774F74 /* Supporting Files */,
 			);
 			path = FightMe;
 			sourceTree = "<group>";
@@ -126,6 +122,18 @@
 				7FC5B6091B8D2EF600774F74 /* Info.plist */,
 			);
 			path = FightMeUITests;
+			sourceTree = "<group>";
+		};
+		7FC5B6151B8D2EFC00774F74 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7FC5B5E41B8D2EF600774F74 /* AppDelegate.swift */,
+				7FC5B5F31B8D2EF600774F74 /* Info.plist */,
+				7FC5B5EE1B8D2EF600774F74 /* Assets.xcassets */,
+				7FC5B5F01B8D2EF600774F74 /* LaunchScreen.storyboard */,
+				7FC5B5EB1B8D2EF600774F74 /* FightMe.xcdatamodeld */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
